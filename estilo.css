@@ -90,7 +90,6 @@ text-align: left;
 }
 .contentFor{
 	padding: 50px;
-	margin-top: 90vh;
 	background:    #ecf0f1  ;
 	height: 700px;
 }
@@ -340,7 +339,6 @@ input{
 }
 .contentFor{
 	padding: 50px;
-	margin-top: 70vh;
 	background:    #ecf0f1  ;
 	height: 100vh;
 }
